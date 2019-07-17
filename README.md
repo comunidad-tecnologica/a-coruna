@@ -15,5 +15,5 @@
 * [:bird:](https://twitter.com/phpcoruna) [:globe_with_meridians:Php Coruña](https://www.meetup.com/es-ES/Php-Coruna/)
 
 ### Slack
-[:slack:Coruña Developers](corunadevelopers.slack.com)
+[Coruña Developers](corunadevelopers.slack.com)
 
